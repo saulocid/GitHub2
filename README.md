@@ -2,5 +2,6 @@
 GutHubRemotoParaInvitarEstudiantes
 Creando REAMDE
 
-DAVID
 
+Gero
+>>>>>>> Gero
