@@ -1,8 +1,9 @@
 # GitHub2
-Sebastian
+
 GutHubRemotoParaInvitarEstudiantes
 Creando REAMDE
-
-
-Gero
->>>>>>> Gero
+1
+2
+3
+4
+5
